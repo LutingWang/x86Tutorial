@@ -1,0 +1,3 @@
+*.exe
+!DOSBox0.74-win32-installer.exe
+*.obj
